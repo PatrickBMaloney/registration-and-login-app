@@ -1,0 +1,2 @@
+# registration-and-login-app
+Spring Boot app that allows users to login and register. Uses MySQL for the database, Thymleaf for the templating engine, and Spring Boot Security to manage authentication and authorization. 
